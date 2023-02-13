@@ -1,0 +1,36 @@
+body {
+  background-attachment: fixed;
+  background-image: url("assets/clear_sky.jpg");
+  background-size: cover;
+  box-sizing: border-box;
+  color: aliceblue;
+  font-family: poppin, "Times New Roman", Times, serif;
+  font-size: large;
+  margin: 0px;
+  padding: 0px;
+}
+.btn {
+  margin-bottom: 10px;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 440px;
+}
+
+h1 {
+  font-weight: 700;
+  margin-top: 150px;
+}
+
+.input {
+  width: 350px;
+  padding: 5px;
+}
+
+h1,
+label {
+  text-shadow: 1px 1px black;
+}
